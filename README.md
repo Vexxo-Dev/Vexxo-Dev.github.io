@@ -4,10 +4,6 @@ Welcome to my GitHub profile! I'm a passionate student and freelance developer s
 
 ---
 
-<img src="https://cdn.pixabay.com/photo/2017/01/10/19/05/code-1970468_1280.jpg" width="100%" alt="Code Banner" />
-
----
-
 ## 🚀 About Me
 
 - 🎓 Student with a passion for technology and innovation
@@ -55,7 +51,7 @@ Here are some highlights from my work (more coming soon!):
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn:](https://www.linkedin.com/in/yassin-vexxo/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yassin-vexxo/)
 - 🌍 Portfolio: *Coming Soon*
 - 🏆 [Codeforces Profile](https://codeforces.com/profile/yassinvexxodev)
 
