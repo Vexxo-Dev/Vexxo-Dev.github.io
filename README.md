@@ -26,8 +26,13 @@ Welcome to my GitHub profile! I'm a passionate student and freelance developer s
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - WordPress Theme & Plugin Development
+- Flutter & Dart App Development
+- Competitive Programming (C++, Codeforces)
 - Frontend & Backend Web Development
 - Responsive Design
 - Problem Solving & Debugging
@@ -50,9 +55,9 @@ Here are some highlights from my work (more coming soon!):
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: *Coming Soon*
+- 💼 [LinkedIn:](https://www.linkedin.com/in/yassin-vexxo/)
 - 🌍 Portfolio: *Coming Soon*
-- 🐦 Twitter: *Coming Soon*
+- 🏆 [Codeforces Profile](https://codeforces.com/profile/yassinvexxodev)
 
 ---
 
